@@ -1,2 +1,2 @@
-print ("goodbay world")
-print ("goodlucky!")
+print ("goodbay world;")
+print ("goodlucky!;")
