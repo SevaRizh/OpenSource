@@ -1,3 +1,5 @@
 print ("hi world!;")
 print ("test text;")
 print ("ogogogo;")
+print ("hello world;")
+print ("это же не конец;")
