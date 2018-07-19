@@ -1,0 +1,2 @@
+print ("goodbay world")
+print ("goodlucky!")
